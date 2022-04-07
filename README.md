@@ -1,2 +1,1 @@
-# tindog
-tindog project made under supervisor Angela Yu
+TinDog Starting Files
